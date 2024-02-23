@@ -1,0 +1,16 @@
+.image{
+    width: 300px;
+    margin: auto;
+    display: flex;
+    gap: 30px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+button{
+    cursor: pointer;
+padding: 20px;
+}
+
